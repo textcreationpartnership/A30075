@@ -1,0 +1,593 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A testimony against the 66 judges called Quakers who writ an epistle (as they call it) against John Story and John Wilkinson and those that joyned with them ...</title>
+            <author>Bullock, Jeffery.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30075</idno>
+            <idno type="STC">Wing B5427</idno>
+            <idno type="STC">ESTC R29912</idno>
+            <idno type="EEBO-CITATION">11221143</idno>
+            <idno type="OCLC">ocm 11221143</idno>
+            <idno type="VID">46891</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30075)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46891)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1436:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A testimony against the 66 judges called Quakers who writ an epistle (as they call it) against John Story and John Wilkinson and those that joyned with them ...</title>
+                  <author>Bullock, Jeffery.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>First letter signed: Jeffery Bullock.</note>
+                  <note>Imprint information supplied by Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Controversial literature.</term>
+               <term>Society of Friends --  Pastoral letters and charges.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:46891:1"/>
+            <pb n="1" facs="tcp:46891:1" rendition="simple:additions"/>
+            <head>A TESTIMONY AGAINST The <hi>66</hi> Judges call'd <hi>Quakers,</hi> who writ an Epiſtle (as they call it) againſt <hi>John Story</hi> and <hi>John Wilkinſon,</hi> and thoſe that joyned with them, ſubſcrib'd by the ſaid <hi>66</hi> Judges, which is here inſerted; with an An<g ref="char:EOLhyphen"/>ſwer thereunto ſubſcribed by <hi>67</hi> of the ſaid People; pub<g ref="char:EOLhyphen"/>liſhed to this end, that all may take notice how the Spirit of Antichriſt hath entred into the <hi>Quakers</hi> Teachers in this our Age and Generation.</head>
+            <p>LET all People take notice to whom this Writing ſhall come, That there is a Generation of Antichriſtian Preachers called <hi>Quakers,</hi> in this Land of England, who make it their great buſineſs yearly to meet together at London; and when as they are met together, for to call into queſtion ſuch things as they have nothing to do withal, that is, ſuch things as are of a Spiritual Concernment; the which thing alone, belongeth to the Light or Mea<g ref="char:EOLhyphen"/>ſure of the Spirit in every ones own particular to judge of, and it doth not belong to the Light in others, for to judge others in matters of Conſcience, Religion, and Worſhip, who owns the ſame Light or Meaſure of Divine Life to be the only Rule for them to walk by; but the place of all ſuch Teachers is to judge themſelves and not their Bre<g ref="char:EOLhyphen"/>thren, as Chriſt ſaid, <hi>Judge your ſelves and ye ſhall not be judged.</hi> But now, if theſe men did but own themſelves to be <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Brethren, or in a Child's State, or in a Servant's Place to God, as <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hriſt did, who took upon him the form of a Servant, and alſo he learned Obedience to his Father as a Son; or if theſe men did but conſider how Chriſt behaved himſelf as a Servant among his Diſciples, although he was
+<pb n="2" facs="tcp:46891:2"/>Lord of all, and alſo how he taught them, that thoſe among them that did deſire to be greateſt, ſhould be willing to become leaſt, and ſo a Servant to others.</p>
+            <p>Then would they not have acted, as they have formerly done to<g ref="char:EOLhyphen"/>wards their Brethren in the <hi>Weſt</hi> and <hi>North</hi> of <hi>England,</hi> and elſewhere, in ſetting themſelves up as Judges over their Brethren in matters of Conſcience, Religion, and Worſhip towards God; but they would rather have recommended every one to abide in their own meaſures, and ſo to have left all as had been convinced to God the Judge of all, who at the firſt did convince them, and not to have ſet up themſelves as Judges over their Brothers Conſciences, as the Sixty Six Judges have lately done in the year one thouſand ſix hundred ſeventy ſeven, in their Paper ſent to the <hi>Quakers</hi> in the <hi>Weſt</hi> of <hi>England,</hi> the which Paper was written againſt <hi>John Story</hi> and <hi>John Wilkinſon,</hi> and thoſe which did joyn with them; wherein they did judge them to be of a rending, ſeparating and dividing Spirit. But one main thing that the 66 <hi>Judges</hi> have neglected in that Paper ſent to the <hi>Quakers,</hi> that is, they ſhould have drawn up firſt a Bill of Indictment of the parti<g ref="char:EOLhyphen"/>cular Criminal Facts that theſe <hi>Quakers</hi> had been guilty of before that they had paſſed or given forth ſuch a ſenſorious general Judg<g ref="char:EOLhyphen"/>ment againſt them, the which thing you Judges neglected. But ſo far as I can underſtand, that the Criminal Facts, which theſe <hi>Quakers</hi> are charged to be guilty of, was, that theſe <hi>Quakers</hi> in the <hi>Weſt</hi> and <hi>North</hi> of <hi>England,</hi> they did not receive and embrace the orders of <hi>George Fox,</hi> and alſo they refuſed to be tryed by thoſe who did own the ſaid Orders, Decrees and Impoſitions of <hi>George Fox,</hi> and the reſt of thoſe Preachers who had formerly made it their buſineſs to meet together in Council, and to ſend forth Orders and Decrees among the <hi>Quakers,</hi> as Rules for them to obſerve and walk after; which thing was practiced above ten years ago by thoſe who were called the <hi>Ele<g ref="char:EOLhyphen"/>ven Elders:</hi> for They alſo ſent forth a Paper of Orders among the <hi>Quakers;</hi> but by many of the <hi>Quakers</hi> the ſaid Paper was diſowned, although thoſe which ſent it forth among the <hi>Quakers,</hi> ſaid, that it was given forth in and from the Operation of the Spirit of God; but ſurely thoſe <hi>Quakers</hi> which did diſown the ſaid Paper, they did not believe what thoſe called the <hi>Eleven Elders</hi> had aſſerted: For had they believed that the ſaid Writing had been given forth in and from the Operation of <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rue Spirit, they dared not to have oppoſed it, nor yet to have diſowned it; but their diſowning of it doth give forth a certain Teſtimony, that thoſe <hi>Quakers</hi> believed that it came from a wrong Spirit; for the <hi>Eleven Elders</hi> they did not ſtand to maintain
+<pb n="3" facs="tcp:46891:2"/>it, nor yet to give forth a Teſtimony againſt thoſe <hi>Quakers</hi> which did diſown the ſaid Writing, which they ought to have done if it had been given forth from a right Spirit.</p>
+            <p>And now here followeth the Copy of the Writing ſent by the 66 <hi>Judges,</hi> to the <hi>Quakers</hi> in the <hi>Weſt</hi> of <hi>England,</hi> and alſo their Names to it; and likewiſe the <hi>Quakers</hi> Anſwer to it: and ſo let the Light, or true Spirit, or Gods Witneſs, judge in all thoſe who ſhall read the ſaid Writing, whether that which was given forth by the 66 <hi>Judges,</hi> did not come forth from the ſpirit of Antichriſt, or from Satan in them transformed into an <hi>Angel of Light.</hi> Let the Light in all that ſhall read them judge.</p>
+            <closer>
+               <signed>Jeffery Bullock.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <head>From a <hi>MEETING</hi> held at <hi>Ellis Hook</hi>'s Chamber in <hi>London,</hi> the <hi>12th.</hi> of the <hi>4th.</hi> Month, <hi>77.</hi>
+            </head>
+            <opener>
+               <salute>Our dear Friends and Brethren,</salute>
+            </opener>
+            <p>THE Lord who is the Ancient of Days, the Unchangeable, and the Holy One of <hi>Iſrael,</hi> that was and is to come, our Rock and Strength for ever, hath graciouſly brought us to<g ref="char:EOLhyphen"/>gether by his own Power, and is with us, and hath covered us with his Love and Spirit, and filled our Hearts with his undeclarable Kindneſs; the ſence of his Mercies hath exceedingly overcome us, and cemented us together; and bleſſed, ſweet, and very precious to our Souls is the Heavenly Unity of Life amongſt us, wherein at this Meeting, the Lord our God hath crowned us with Glory, Dominion, and Peace; bleſſed for ever be his pure Name.</p>
+            <p>Oh how good it is for all to keep in the Living ſence of God and his Truth! where plentious Redemption, and Preſervation is known, where the Murmurer and Repiner can never come; therefore all that are in the muttering, diſſatisfied, and jealous Nature, full of Doubts and Reaſonings and Objections, go from their pure Eye, and out of Truth's Habitation in themſelves, and ſo come to ſuffer loſs.</p>
+            <p>O Dear Brethren at this time (as on like occaſions hath been fre<g ref="char:EOLhyphen"/>quent with us) the care of the Peace, and the welfare of the Churches of Chriſt came upon us, and bleſſed be the Lord, things are generally well and flouriſhing, and Truth grows famous, though Sufferings abound in many places; yet it is well with Friends, and the Lords power reigns, and great hath been the Concern of Friends about the Sufferings of our Brethren, and other things, and bleſſed Meetings have we had,
+<pb n="4" facs="tcp:46891:3"/>wherein things have been clearly opened, ſweetly and tenderly treated on in much love, and brotherly love concluded: For which, bleſſed be the Name of the Lord, whoſe Loving, Ancient, and Freſh Power and preſence was with us.</p>
+            <p>But truly with bowed Spirits, and grieved Hearts, have we perceived the obſtinate and obdurateneſs of ſome that have gone into the Self-will, deſpiſing Heavenly Dignities, and caſting tender Love and In<g ref="char:EOLhyphen"/>treaties behind their backs, ſetting up, and continuing in, and promo<g ref="char:EOLhyphen"/>ting falſe and pernicious Jealouſies, Mutterings, and ſecret Smitings, whereby they are darkned in their Underſtandings, and ſo have, through the Power of the Enemy of the King of Righteouſneſes and Peace, ſet up a kind of Standard of Seperation from that bleſſed Fel<g ref="char:EOLhyphen"/>lowſhip and Communion of the Churches of Chriſt ſweetly poſſeſſed together, to the Diſhonour of God, his Truth and People. More e<g ref="char:EOLhyphen"/>ſpecially <hi>John Wilkinſon</hi> and <hi>John Story,</hi> notwithſtanding the many Viſitations and Admonitions of Love, and Life, even in the deepeſt Travails; and that from time to time, and year to year; particularly the ſence and admonition of the laſt yearly Meeting, writ in great love that they might return, and be reconciled to their Brethren, be<g ref="char:EOLhyphen"/>fore they offer their Gifts, which they have rejected: And foraſmuch as it appears to us, that they will not come to us, nor near us in the peaceable Truth, which we have frequently and truly deſired for their good; but that they go on in their oppoſition and evil ſmiting againſt the Faithful Brethren, and Practice of the Church of Chriſt, refuſing to diſſolve their ſeparate Company in the <hi>North,</hi> or clear their Hands of them by a faithful Teſtimony againſt them, or ſo much as blot their Names out of their Paper of Separation.</p>
+            <p>And becauſe we are ſenſible they have made an ill uſe of our Forbear<g ref="char:EOLhyphen"/>ance, even to the ſtrengthening themſelves in their Separation, and co<g ref="char:EOLhyphen"/>ver their evil Deſigns among ſome ſimple-hearted Friends, perſevering therein by Word, Writing, and Practice, we are conſtrained after this continual waiting and exhortation (thus ſlighted by them for the Glo<g ref="char:EOLhyphen"/>ry of the Name of the Lord, and ſake of the Peace of the Churches of Chriſt, that we may ſtand clear in the Power of God, of the Blood of all in the great and notable day of Account) more publickly to reprove and judge them: And we do hereby reprove and judge that jealous, rending and ſeparating Spirit, and them and their ſeparate Company as being in the Spirit of Separation; and that by the Spirit and Pow<g ref="char:EOLhyphen"/>er of our God, we warn all to whom this comes, to beware of the ſaid <hi>John Wilkinſon</hi> and <hi>John Story,</hi> whoſe way at preſent is not the way of Peace and Chriſtian Concord: For if it were, they would
+<pb n="5" facs="tcp:46891:3"/>not offer their Gift till reconciled to their Brethren. And therefore Brethren ſtand up in the Power and Wiſdom of God for the Teſti<g ref="char:EOLhyphen"/>mony of Truth againſt that wrong, murmuring, and dividing Spirit, and where they come, warn them to go home in the name of the Lord, and be reconciled to their Brethren, and not go thus up and down to offer their Gift, which in this State is not a Peace, but a Diviſion, offering contrary to the Precept of Chriſt Jeſus our Lord, firſt being reconciled, whatever their pretences be, and therein will you acquit your ſelves in Gods ſight, and ſhew true Love and Friend<g ref="char:EOLhyphen"/>ſhip unto them, and thoſe that may be hurt by them, which our Souls moſt earneſtly deſire ye, that it may be truly well with them both here and for ever: And from the Lord we ſay, had they loved the Proſperity of <hi>Zion,</hi> and the Peace of <hi>Jeruſalem,</hi> more than their own Self-will, and Self-ſeparation; and had they ſought the Unity that is in the Truth and ſweet Communion of Brethren which ſtands in that Love that thinks no evil, and that Wiſdom that is gentle and very eaſie to be intreated with the Brethren, ſweet and precious had been our Fellowſhip to this day.</p>
+            <p>And it is our Godly Exhortation to you Friends and Brethren of Monthly and quarterly Meetings, that you watch in the Light and Power of God againſt this ſeparating Spirit that ſmites at the bleſſed Fellowſhip of the Churches of Chriſt, and where it enters any, in Gods love to admoniſh, exhort, and warn ſuch to take heed of that ra<g ref="char:EOLhyphen"/>venous Spirit, and to keep the Unity of the Peace of the Family of the Lord, the Houſhold of Chriſt which we are; and if notwithſtanding your Chriſtian Dealing and Forbearance, ſuch perſons perſevere and go on in their ſeparate Spirit and Practice, let Gods Truth be clear of them, and Truth ſet over their Heads, according to that bleſſed Or<g ref="char:EOLhyphen"/>der of the Goſpel of Chriſt ſetled amongſt you. And dear Brethren, be careful not to ſuffer your Meetings, which were gathered, not by the will of Man, but by the Power and Wiſdom of the Lord God, to be diſtur<g ref="char:EOLhyphen"/>bed, over-ruled, and ſpoiled by heady, obſtinate, and contentious Perſons, that diſturb the Peace of the Church of Chriſt; neither fear Man, but eye the Lord, and wait in his Wiſdom and Power to be guided and ordered; and ſo go on to your work in the name of the Lord: For the Seed of Life, and not the Wiſdom which is from below, muſt rule and have the Dominion for ever.</p>
+            <p>But foraſmuch as the way of the working of the ſubtil Enemy hath been to ſuggeſt, that it is the deſign of ſome to make themſelves Lords over Gods Heritage, and to ſet up an Arbitrary Power in the Churches of Chriſt, and then to run out into ſevere Exclamations againſt Impo<g ref="char:EOLhyphen"/>ſitions,
+<pb n="6" facs="tcp:46891:4"/>crying up Liberty of Conſcience, thereby caſting a miſt before the Eyes of the ſimple, and a Stumbling-block in the way of the weak. Thus we feel our ſelves conſtrained in the love of our Lord for the good of all to declare, and the Lord that gathered us, and preſerved us to this day is our Record, that we deny and abhor any ſuch thing; for we have one Lod, Judge and Law-giver, and that is Chriſt Jeſus, unto whoſe Light, Power, and Spirit, we have been turned, and in that have worſhipped him, and had Fellowſhip together to this day, and are your Servants for his ſake; and we are aſſured in the Lord, that thoſe that keep in the Light, Life, and Power of Chriſt, will have Fellowſhip with us, and truly our Fellowſhip is with the Father and the Son; and though it is far from us to bruiſe or hurt the pooreſt or leaſt member in the Church of Chriſt, who may not have that clearneſs of ſight, and ſtrength of Faith, which the Lord hath brought us to, but that they may be cheriſhed; yet by that Salt, that we have in our ſelves from the Lord, we are enabled to ſavour between the Transformations of the Enemy, and the ſcruples of the Innocent, and as to be tender of the one, ſo to give Judgment againſt the other; and our day hath lamentably ſhown us the effect of that Spirit, that under a pretence of crying down Impoſitions, and pleading for Liberty, and doing nothing but what it is free to, endeavouring to lay waſte the bleſſed Unity of the Brethren, and ſo over-run the bleſſed Heri<g ref="char:EOLhyphen"/>tage of the Lord, that lived together in an orderly Family under the law of life, and living order of the Goſpel, with a looſe and unſubje<g ref="char:EOLhyphen"/>cted Converſation, which would bring confuſion to the Church, and make us a Deriſion to the Heathen.</p>
+            <p>And to the end that theſe very perſons concerned in this ſeparation, may appear to be no lovers of Chriſtian liberty, and Goſpel Privileges, as they pretend, let their own Paper, which is a Declaration of the Reaſons of their ſo ſeparating, be read and weighed in the Univerſal love and life of Chriſt Jeſus, and therein we well ſuppoſe, will be found the true Nature of Impoſition, in that none of their own County are allowed to be of their monthly and quarterly Meetings, but ſuch as are appointed and choſen by the particular Meetings; next, that none of other Counties, though publick labourers of the Goſ<g ref="char:EOLhyphen"/>pel, are to be admitted to be at their Meetings, unleſs it be to tell their Meſſage, and immediately to depart; and theſe, with ſuch like things, 87 ſubſcribed, as the reaſons of their ſeparation, and Foundation of a new Goverment amongſt themſelves, which is a plain Independancy from the Practice of the Church of Chriſt throughout the World. O Friends, watch in the Power of God againſt this Spirit, that would
+<pb n="7" facs="tcp:46891:4"/>make them twain, that God hath made one, and ſeparate that which God hath joyned together; and you that have an Intereſt in them, and to whom their regard is. Oh have a care that you give them no ſtrength in their manifeſt ſeparation, but ſtand upon your Watch-tow<g ref="char:EOLhyphen"/>er. Dear Friends, in Gods love, touch not with that Spirit, the Enemy of <hi>Zions</hi> Glory, and their Peace; give not your ſtrength to them, but deal faithfully with them, and ſeek them in Gods Way and Wiſdom, that whatſoever becomes of them in the end, you may be clear of their Blood in the ſight of the Lord; and that they may not ſay, but that they have had a day of love and viſitation: and truly that which hath encouraged us in this Epiſtle, is, that good ſucceſs God hath bleſſed our like Endeavours in his Power with: For many deceived by them, having ſeen their ſnare in tenderneſs of Spirit, have honeſtly confeſs'd their Fault, and are come from them, and have teſtified both againſt the ſeparate company, and themſelves for being of it; and now live in Unity with their Brethren, and feel the Joy and quiet Habitation, that in the Communion of Saints, and Fellowſhip of Jeſus is enjoyed, Praiſes to the Lord for ever; and as we deſire, ſo we hope more will be brought to the ſame bleſſed ſence: ſo be zealous for the Lord dear Brethren, and ſtand up in his ſpirit and power, for the Peace of his Church; in his Precious peaceable life dwell, that keeps in ſoundneſs of mind, then will you ſhew mercy to that to which mercy is due, and Judgment to whom Judgment is due, without reſpect of Perſons; and herein our pure true love is cleared to them and all mankind; and the God of Heavenly love, pure and precious, continue our Fellow<g ref="char:EOLhyphen"/>ſhip, and be with us all, and bleſs us to the Glory of his Eternal love, who over all Spirits, Angels, and Men, Thrones, Dignities, and Dominions, Reigns, and is worthy and bleſſed for ever. We are univerſally,</p>
+            <closer>
+               <signed>Your Dear and Faithful Brethren in the La<g ref="char:EOLhyphen"/>bour, Travail, Tribulation, Patience, Hope, and Rejoycing of the King<g ref="char:EOLhyphen"/>dom of our Lord Jeſus Chriſt.
+<list>
+                     <item>
+                        <hi>Thomas Taylor.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Briggs.</hi>
+                     </item>
+                     <item>
+                        <hi>W. Fdmonſon.</hi>
+                     </item>
+                     <item>
+                        <hi>Amb. Rigg.</hi>
+                     </item>
+                     <item>
+                        <hi>Joſeph Batt.</hi>
+                     </item>
+                     <item>
+                        <hi>Jam. Harriſon.</hi>
+                     </item>
+                     <item>
+                        <hi>Cut. Hayhurſt.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Burngeat.</hi>
+                     </item>
+                     <item>
+                        <hi>Bra. Dayley.</hi>
+                     </item>
+                     <item>
+                        <hi>Ste. Smith.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Holmes.</hi>
+                     </item>
+                     <item>
+                        <hi>Ja. Halladay.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Robeiſon.</hi>
+                     </item>
+                     <item>
+                        <hi>W. Goſnel.</hi>
+                     </item>
+                     <item>
+                        <hi>Ben. Antrobus.</hi>
+                     </item>
+                     <item>
+                        <hi>Sam. Jennings.</hi>
+                     </item>
+                     <item>
+                        <hi>Rich. Pindle.</hi>
+                     </item>
+                     <item>
+                        <hi>Francis Bell.</hi>
+                     </item>
+                     <item>
+                        <hi>Ja. Fletcher.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Sacre.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Bracy.</hi>
+                     </item>
+                     <pb n="8" facs="tcp:46891:5"/>
+                     <item>
+                        <hi>Jo. Ticer.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Burr.</hi>
+                     </item>
+                     <item>
+                        <hi>W. Fallowfield.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Johnſon.</hi>
+                     </item>
+                     <item>
+                        <hi>Hen. Jackson.</hi>
+                     </item>
+                     <item>
+                        <hi>Gy. Bernardiſton.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Atkins.</hi>
+                     </item>
+                     <item>
+                        <hi>Mor. Watkins.</hi>
+                     </item>
+                     <item>
+                        <hi>W. Gibſon.</hi>
+                     </item>
+                     <item>
+                        <hi>Ric. Longworth.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Bowrem.</hi>
+                     </item>
+                     <item>
+                        <hi>Chr. Bacon.</hi>
+                     </item>
+                     <item>
+                        <hi>Ri. Vickris.</hi>
+                     </item>
+                     <item>
+                        <hi>Ja. Claypoole.</hi>
+                     </item>
+                     <item>
+                        <hi>Ol. Sampſon.</hi>
+                     </item>
+                     <item>
+                        <hi>Luke Howard.</hi>
+                     </item>
+                     <item>
+                        <hi>Rich. Smead.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Wilford.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Elſon.</hi>
+                     </item>
+                     <item>
+                        <hi>Sam. Cater.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Vaughton.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Watſon.</hi>
+                     </item>
+                     <item>
+                        <hi>Fr. Fincher.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Kilborne.</hi>
+                     </item>
+                     <item>
+                        <hi>W. Whaley.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Ellwood.</hi>
+                     </item>
+                     <item>
+                        <hi>Sam. Hulbooke.</hi>
+                     </item>
+                     <item>
+                        <hi>Chriſ. Taylor.</hi>
+                     </item>
+                     <item>
+                        <hi>Rich. Davis.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Whitehead.</hi>
+                     </item>
+                     <item>
+                        <hi>Nic. Gates.</hi>
+                     </item>
+                     <item>
+                        <hi>Len. Fell.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Moone.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Abraham.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Higgons.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Latemore.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Hill.</hi>
+                     </item>
+                     <item>
+                        <hi>Ant. Tomkins.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Boy.</hi>
+                     </item>
+                     <item>
+                        <hi>Chr. Marſhall.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Blackley.</hi>
+                     </item>
+                     <item>
+                        <hi>W. Penn.</hi>
+                     </item>
+                     <item>
+                        <hi>Fran. Moore.</hi>
+                     </item>
+                     <item>
+                        <hi>Jo. Swinten,</hi> Jun.</item>
+                     <item>
+                        <hi>Eze. Wolley.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>ANd there were ſeveral Brethren that had left this City before this Meet<g ref="char:EOLhyphen"/>ing, wherein this Epiſtle was ſubſcribed, who at other Meetings had teſtified againſt this ſeperate Spirit in the Power of the Lord, and ſo are one with us herein; and ſome there were, who have already cleared their Conſciences at their laſt years Meeting; and ſince at other Meetings, both by Epiſtles and other Manuſcripts, in a full and faithful Teſtimony againſt this Spirit of Separation and oppoſition, and thoſe that remain in it, and ſtands witneſſes againſt it and them for the Lord and his Heavenly Truth.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="text">
+            <head>Let this be read in Monthly, Quarterly, and other mens Meetings, as in God's Wiſdom and Counſel may be ſeen meet, and a Service for the ſame.</head>
+            <p>We whoſe Names are hereunto ſubſcribed, being a part of the Lords People; a few lines from ſome of us call'd <hi>Quakers</hi> in the Coun<g ref="char:EOLhyphen"/>ty Of <hi>Wilts,</hi> and is in anſwer to a Paper bearing date from <hi>Ellis Hook</hi>'s Chamber in <hi>London,</hi> the 12. day of the 4. Month, 1677. ſubſcribed by 66 Perſons, whoſe language ſeem to us, as though they did not write only on their own behalf, but as perſons aſſuming Authority over the People of the Lord call'd <hi>Quakers.</hi>
+            </p>
+            <p>And therefore are we now concerned in Conſcience to give this Te<g ref="char:EOLhyphen"/>ſtimony, <hi>viz.</hi> that it becomes not them, nor yet any perſon upon Earth, to aſſume a Power, and thereby to appear as Lords and Maſters over
+<pb n="9" facs="tcp:46891:5"/>any one member of Chriſts Body; and in as much as we have ſuch a ſence that there is ſuch a Spirit this day at work, we cannot but ſay, that (through the ſerious conſidertion of theſe things) the ſpirit of the Lord God is grieved in us, and though the Foundation of God ſtands ſure unto us, who have not only believed, but alſo kept our integrity unto the Lord, even unto this preſent day, of which we have an abſolute certainty confirmed unto us, by the evidence of Gods Spirit witneſſing with our ſpirits herein; yet the extent of ſuch pro<g ref="char:EOLhyphen"/>ceedings may be of ſuch an ill tendency, as ſome thereby may be weak<g ref="char:EOLhyphen"/>ned, and others poſſibly turned out of the way: Moreover when we conſider what unchriſtian-like Carriages, and unbrother-like proceed<g ref="char:EOLhyphen"/>ings hath been exerciſed againſt our ancient Friends and Elders in the Truth, thoſe faithful and innocent ſervants of the Living God <hi>Jo. Wilkinſon</hi> and <hi>Jo. Story,</hi> we cannot but even lament, becauſe the te<g ref="char:EOLhyphen"/>ſtimony of God on their behalf lives with us, and remains as an obli<g ref="char:EOLhyphen"/>gation upon our ſpirits thus to ſay, that though the principle of Truth in our Hearts, leads us not to place our Faith in them, or any other man or men whatſoever; becauſe ever ſince the beginning of our Con<g ref="char:EOLhyphen"/>vincement of the truth to this day, we had a certain ſence that all are liable to err, if they watch not; yet we have, and ſtill do firmly be<g ref="char:EOLhyphen"/>lieve, that it hath pleaſed our Heavenly Father to commit unto them a diſpenſation of the Goſpel of Life and Salvation, with which they were by him two or three and twenty years ſince ſent amongſt us, who in that, with many of their dear Brethren now deceaſed, bore the Burthen in the heat of the Day, and as we firmly believe, have con<g ref="char:EOLhyphen"/>tinued faithful Labourers in their Maſters work and ſervice to this ve<g ref="char:EOLhyphen"/>ry day, and through the Wiſdom of God committed unto them; we well remember a word of reproof and inſtruction from them hath been a word of comfort, it being given in great care and tenderneſs for the preſervation of that part of the Flock of God now accompani<g ref="char:EOLhyphen"/>ed with many exerciſes, who were gathered by them as Inſtruments in the hand of the Lord; and now through the length of time, our ex<g ref="char:EOLhyphen"/>perimental knowledge concerning them, and their righteous walking before us from time to time, hath ſo confirmed us, that we freely give it as our belief and judgment, that they have not hitherto changed their way.</p>
+            <p>Therefore, you who have concerned your ſelves to write againſt them, to give over ſuch work for time to come, and mind that which belongs to you, and let them alone to their Lord and Maſter, the true and living God, whoſe true Meſſengers they have been, and now are; For be it known unto you all, that you ſhall never be able to deſtroy
+<pb n="10" facs="tcp:46891:6"/>that Intereſt God hath given theſe his Servants in the hearts of his people, while they keep the ſtation where they now ſtand; for being wiſe in the wiſdom that is from above, they have been Inſtruments in the Lords Hands to turn many to Righteouſneſs, who with them, if they continue therein, ſhall ſhine as the brightneſs of the Firmament, and as the Stars for ever and ever.</p>
+            <p>We confeſs your Paper is filled with many high expreſſions, <hi>viz.</hi> of Heavenly Unity, and crowned with Glory and Dominion, uſing the word Dignity, <hi>&amp;c.</hi> which puts us in mind thus to query of you (ſince you, as we take it, ſo boaſt) what is the honour and advancement that you are lately arrived at? Have you any thing but what you have recei<g ref="char:EOLhyphen"/>ved? How can you expect we can believe ſuch things are truly found amongſt you, as in words you do ſo largely make a profeſſion of, vvhile we ſee and behold the ſpirit of prejudice flow from you, even in the very ſame Paper, againſt faithful Brethren who harms you not, neither have, or do we underſtand, that they ſeek Revenge, or ren<g ref="char:EOLhyphen"/>der evil for evil, but leaves their Cauſe unto the Lord recommending the ſame unto the faithful and true witneſs of God in all Conſciences, knowing that all Gods people are to act and ſpeak as God thereby ſhall open their Underſtandings.</p>
+            <p>We cannot poſitively charge every one of you, that you have acted on the credit of others, but yet we are in our very Conſciences ſatisfi<g ref="char:EOLhyphen"/>ed, that ſeveral of you have ſo done, and ſo underſtand not what you have done; but yet remember this from your Friends, that whoſoever hath ſo done to the wrong of the Lords Servants, it will redound to their own ſhame, and no imaginary power or authority whatſoever will be able to uphold the betrayed or betrayers from the juſt Judg<g ref="char:EOLhyphen"/>ment in the day of the Lord. We take notice you thus ſay, notwith<g ref="char:EOLhyphen"/>ſtanding the many Viſitations and Admonitions, and that from time to time, and from year to year, <hi>&amp;c.</hi> we deſire that every one of you will now look back and behold your work, and conſider whether great part of you, did ever in all your lives, either viſit or admoniſh the ſaid <hi>Jo. Wilkinſon,</hi> and <hi>Jo. Story</hi> upon that account. We alſo find in the ſaid Paper theſe expreſſions, Whereas, they meaning <hi>J. S.</hi> and. <hi>J. W.</hi> concerning their evil Deſigns amongſt the ſimple, perſeve<g ref="char:EOLhyphen"/>ring therein, many being deceived by them, ſetting up, and continu<g ref="char:EOLhyphen"/>ing in, and promoting falſe and pernicious Jealouſies, a ravenous Spirit, and ſuch like; and we do hereby reprove and judge (ſay you) that rending Spirit, and them and their ſeperate company: here you have not only charged in general terms, but alſo paſt Judgment upon your general Charge, notwithſtanding which, the particular matter of
+<pb n="11" facs="tcp:46891:6"/>Fact as evidence of the charge lieth yet behind, which we in regard to the Law of Love and Chriſtian Charity, do on the behalf of our ſuf<g ref="char:EOLhyphen"/>fering and innocent Brethren, expect that you make good, and in or<g ref="char:EOLhyphen"/>der to our ſatisfaction, whoſe Conſciences are concerned (on the be<g ref="char:EOLhyphen"/>half of the truth) do query of you, what is the evill deſigned by them? And where hath it been made appear? And how do they perſevere therein? Who are the many deceived by them? And what have they deceived them of? What hath been ſet up by them, and what do they continue in and promote that's falſe? What ravenous actions have been committed by them? As to your general Charge, we cannot but turn them upon your own heads as falſe, there to remain, until you prove them by particular matter of Fact.</p>
+            <p>We know it is become a cuſtome with ſome to revile innocent men, but yet we alſo know it is an ill way to exalt one Brother by the de<g ref="char:EOLhyphen"/>famation of another that is innocent: Our deſires are, that this ſin may not be laid to any of your charges, but rather, if you are conſci<g ref="char:EOLhyphen"/>ous to your ſelves of guilt herein, you may ſpeedily repent. You alſo thus ſay, we warn all to whom this comes, to beware of the ſaid <hi>J. S.</hi> and <hi>J. W.</hi> and not only ſo, but ſeems to preſcribe a form of words, <hi>viz.</hi> where they come, warn them to go home, and by their ſo do<g ref="char:EOLhyphen"/>ing, they will acquit themſelves in Gods ſight; (mark) an eaſie way to be acquitted: We demand from whom have you power to give forth ſuch a large Commiſſion, ſince we certainly know, that a man may ſpeak your preſcribed Form of words, like a Child that learns a Leſſon by roat, and yet be far from ſtanding acquitted in Gods ſight. Alas Friends! we have a godly Jealouſie, that ſome imaginary whimſie hath led you to appear ſo confident, as to warn them to go home, becauſe we believe the word of the Lord dwells richly in them; but perhaps you may think the ſtreſs of all lies in ſilencing them, or ſending them home; if you ſo think, you deceive your ſelves, for we teſtifie, that the ſame word of life which dwells in them, (and that cannot aſſent that the Servants of <hi>Iſraels</hi> God ſhould bow to any Image, or Image-maker) dwells in many Brethren, Praiſes to the Lord for ever.</p>
+            <p>It appears by your words, you are afraid of being a deriſion to the Heathen, do you not take the ready way, and walk directly in the path that leads thither? And can you think otherwiſe? but if the Heathen knew but your unchriſtian-like carriages and proceedings againſt the Brethren, they would certainly have you in deriſion.</p>
+            <p>Now as touching the ſeparate Meeting in the <hi>North,</hi> unto whoſe Paper (which is a Declaration of the reaſons of their ſo ſeperating) you refer us, deſiring us both to read it, and to weigh it, and then, ſay
+<pb n="12" facs="tcp:46891:7"/>you, you, we well ſuppoſe then will be found the true nature of Impoſiti<g ref="char:EOLhyphen"/>on: We tell you, we have both read it, and weighed it, and do not only well ſuppoſe, but alſo certainly find a great deal more in it than we find from you: For though ſome paſſages therein might have been worded to anſwer the intent of the ſubſcribers better than the words laid down doth; yet Charity would ſo conſtrue of the Reaſon, Equi<g ref="char:EOLhyphen"/>ty, Truth and Juſtice offered by them therein, as not to put ſuch con<g ref="char:EOLhyphen"/>ſtructions thereon, as never was their meaning. But what if we in this County, or any Friends elſewhere, ſhould ſay to any of you at <hi>London</hi> or other Cities or Counties, as to the publick concern in the management of our affairs, meddle not with us unleſs concerned; but if the word of the Lord is really with any of you, we are ready to hear it: If we ſhould ſo ſay unto you, we cannot think barely of this ſaying of yours, you may well ſuppoſe this to be the true nature of Impoſition, neither do we underſtand theirs to be any otherwiſe, and no part of the nature of Impoſition in it, having no penalty annexed thereunto.</p>
+            <p>And now we might by way of queſtion, ask when and from whom you received cower over them, or any other, and over what part your power doth extend? Seeing we certainly know Conſci<g ref="char:EOLhyphen"/>ence ought to be free, with which you are not to intermeddle, and as for our outward Property, it belongs not to you, neither in it are we by you defended, and as to matter of Fact, you prove nothing againſt them. Theſe things conſidered, we cannot underſtand, why or wherefore you ſhould uſe ſuch language as we find in your Paper: To us it ſeems rather to ſpring from the ſpirit of Lordſhip exerciſed amongſt the Gentiles, then from that Spirit that delighteth to be Ser<g ref="char:EOLhyphen"/>vant to the Brethren for Chriſts ſake; and whereas you ſay, becauſe we are ſenſible they have made an ill uſe of our forbearance to the ſtrengthening, themſelves, and ſo forth, we do hereby reprove and judge them and others<g ref="char:punc">▪</g> 
+               <hi>&amp;c.</hi> If you pretend not to a power over them, what need the word Forbearance? And if you pretend not to be their Judg<g ref="char:EOLhyphen"/>es, why do you undertake to paſs judgment? But foraſmuch as we certainly know you have no power over them, neither ſpiritual nor temporal; we therefore tell you, you are Intruders, and your Paper of falſe judgment, on this account we do undervalue as too mean and too light, either to affright or take place with us, that are eſtabliſhed in the Truth, and the weightieſt expreſſion therein contained, is no more to us, than the flying of Thunder over our Heads; for in it we feel no weight at all, and the Lord aſſiſting of us, do reſolve not to walk by the light of your ſparks, nor ſee with your Eyes, nei<g ref="char:EOLhyphen"/>ther
+<pb n="13" facs="tcp:46891:7"/>favour with your Salt in theſe your proceedings, but to our Lord and Maſter will we either ſtand or fall.</p>
+            <p>And we further declare unto you, and give it as our belief and judgment (whatever you think, or however you may create a peace unto your ſelves in theſe things) that the more you ſtir, and the more you ſtrive after this manner, the more will be the increaſe of your weight and burthen.</p>
+            <p>Therefore our Advice and Counſel to you is, that you labour to be ſtill and quiet, and purſue peace as much as in you lies, and lay not that upon others which properly belongs unto your ſelves; but that which is your portion be content to take home to your ſelves: For you are the people you ſpeak of, that occaſions the miſt to be caſt before the eyes of the ſimple, and a Stumbling block in the way of the weak, and you are the Troublers of <hi>Iſrael</hi> this day; and although we truly deſire peace, and a ceſſation to theſe things, and could be heartily glad if you would inſiſt on them no farther, yet foraſ<g ref="char:EOLhyphen"/>much as it appears to us, that this is the way or path, you, or at leaſt ſome of you intend to walk, and delight to trade in: we do therefore adviſe you to look to your ſelves, and mark well your ſteps; for although we have hitherto for the moſt part born ma<g ref="char:EOLhyphen"/>ny things not pleaſant to us, and that many times for the ſake of o<g ref="char:EOLhyphen"/>thers; yet having had continual provocations, and now you thus pub<g ref="char:EOLhyphen"/>lickly appearing through the Nation, as by the directions of your Pa<g ref="char:EOLhyphen"/>per doth appear; we are in the Spirit and Power of our God ſtirred up to appear, as becomes Chriſtians, in defence of the cauſe of Truth, wherein we look only and alone unto the Lord, and not unto man, with that eye that is open in us, that ſees and beholds your out-go<g ref="char:EOLhyphen"/>ings in thoſe things that tend to ſtrife and debate contrary to the truth which we have received, and the Lord enabling, ſhall therein well obſerve you, and as occaſion offers, our Faith is, that we ſhall always be ready (according as the Spirit of Truth ſhall lead us) to deteſt fictions proceedings, as you have been exerciſed in, and there<g ref="char:EOLhyphen"/>fore for time to come to be more careful of what you undertake, and ſee that according to the Truth, Right, Reaſon, Equity and Juſtice, you are able both to ſtand by and defend it, otherwiſe it will return back upon your own Heads with ſhame as this hath done, and no doubt 'twill yet farther do.</p>
+            <p>And we have yet farther to declare unto you concerning our ſelves, ſuch is our preſent ſtate and condition, that notwithſtanding theſe things, we can this day to our comfort boldly ſay, we are what we are by the grace of God, and in that Grace we are daily waiting to
+<pb n="14" facs="tcp:46891:8"/>be made more in his time, and in his time to be content, deſiring no<g ref="char:EOLhyphen"/>thing more than the encreaſe of that Grace and that therein we may continue to the end, walking before the Lord in all honeſt and godly Converſation, according to the preſent manifeſtation of his good Spi<g ref="char:EOLhyphen"/>rit given to us, and our Faith and Truſt in the Lord is, that through his ſtrength and power we ſhall be preſerved thus to continue to the end of our days, and not to take up, or enter into the practice of any thing, though under never ſo fair nor high pretence; but as by faith in this power, we come to feel the Lord leading us thereinto, and expecting it at our hands as a duty incumbent upon us, enjoyned by God alone, in which as we feel our Service, our Faith is, that as we have been, ſo we ſhall be ready to every good work, and act a deed of Charity amongſt us, either to our Friends, or any other whom Chriſtian Charity obligeth us to ſerve, wherein we may be ſerviceable, and for the keeping all in good order amongſt thoſe who profeſs the Truth; and here is neither <hi>Paul</hi> nor yet <hi>Apollo,</hi> but that Chriſt that was Crucified, comes here to be both Lord and King, Judge and Law-giver; and another Go<g ref="char:EOLhyphen"/>vernour than this inwardly received by us, and ought to be received by all, in order to the great Salvation, our Faith is, that the Lord will never lead his people into: And if you, or any of you would know what we are, (or are diſſatisfied concerning us) be it known unto you all, this is the Government which we only and alone ſtand for, and ſtand to, and although we do confeſs, that ſome practices uſed amongſt us, as outward Diſcipline in the Church of Chriſt, for the keeping things in good order, may be of Service being uſed in their places, as Gods people in Wiſdom ſee meet, and occaſion thereof, and not otherwiſe; yet if any Member or Members of the Church of Chriſt, have, or ſhall give any Paper of Inſtructions or Advice rela<g ref="char:EOLhyphen"/>ting to outward forms of Diſcipline in the Church to the reſt of their Fellow-members, we teſtifie that the ſame ought to be recommended to the Conſcience, that ſo when God's witneſs therein doth anſwer, that might be the only bond to put ſuch advice and inſtructions in practice.</p>
+            <p>But if inſtead of this, any one or more, who have been Members of the Church of Chriſt have, or ſhall aſſume ſuch a power to them<g ref="char:EOLhyphen"/>ſelves, as to judge other members of the ſaid Church to be departed from the truth, becauſe they practice not ſuch Council or Inſtructi<g ref="char:EOLhyphen"/>ons, though they ſee it not from the evidence of God's Spirit in them<g ref="char:EOLhyphen"/>ſelves to be their Duty, this we ſay is not according to the Truth, as practiſed, received and owned amongſt us, even from the beginning
+<pb n="15" facs="tcp:46891:8"/>to this day; and therefore whoſoever have or ſhall be guilty of paſſing judgment, and giving forth Cenſures under the notion of Church-cenſures, againſt Perſons conſcientiouſly refuſing to put ſuch Advice and Inſtructions. in practice, or otherwiſe endeavour to wound ſuch in their reputations, as men as well as Chriſtians; this we teſtifie is not, neither can be any otherwiſe than the Fruit of a perſecuting, im<g ref="char:EOLhyphen"/>poſing, ſelf-ſeeking Spirit wherever it hath or ſhall appear; and therefore even from the Head to the Tail, we do abhor, and utterly deny it, as that from which the Lord hath ſet us free: And now for<g ref="char:EOLhyphen"/>aſmuch as the Lord according to meaſure, hath made us a free People, through the attaining of which in days paſt, we have neither feared the Threats nor Flatteries of Man, but have ſome time ſtood in the gap with a Teſtimony for the Liberty we have received in Chriſt<g ref="char:punc">▪</g> Jeſus: We therefore tell you, wherever you find any thing that hath a con<g ref="char:EOLhyphen"/>trary tendency, and would uſurp a power over Conſcience, which is Chriſt's Prerogative, and who alone hath a peculiar authority over Conſcience; our Souls do in the higheſt degree abominate it, and do ſurge againſt it; that at this time we could no no leſs for the clearing of our ſelves, and in the behalf of our Brethren, but ſignifie thus un<g ref="char:EOLhyphen"/>to you, and deal thus plainly with you: For this was the teſtimony that remained as an obligation upon our Spirits to give in amongſt you in anſwer to part of your Paper, and that falſe judgment therein contained, not having in our Eye to boaſt above our line of another mans enjoynment, but according to the underſtanding given us of God, have we cleared our ſelves, ſtill having as great regard to love our Neighbours, and to do unto others as we would be done by; and that Truth and Righteouſneſs may be promoted and exalted by us both in our Tovvns, Countreys and Families, vvhich vve are aſſured God re<g ref="char:EOLhyphen"/>quires at our hand; and unto him, even the Judge of Judges, both<g ref="char:punc">▪</g> you and vve muſt give account, in vvhich day of Account no falſe pretence nor fair ſhevv vvill ſerve turn, neither vvill building the Tombs of the Prophets, and garniſhing the Sepulchres of the Righte<g ref="char:EOLhyphen"/>ous, and making a great noiſe through the Nation in a ſelf exalted Spirit about Government, under the notion of Church-government, Orders, and ſuch like, (the Rock, on vvhich many of the profeſſors of Chriſti<g ref="char:EOLhyphen"/>anity have ſplit) ſtand many ſtead, but every man and every vvoman that truly fear God, and vvorks Righteouſneſs, ſhall be accepted of him.</p>
+            <p>We do deſire no worſe for you, nor concerning you, but that you might be brought out of all unchriſtian-like practices, and every thing that is the Fruit of Turbulent Minds and Spirits into the peace<g ref="char:EOLhyphen"/>able.
+<pb n="16" facs="tcp:46891:9"/>Truth, there to ſit down with us, wherein we know true reſt, and in which we remain your Friends,
+<list>
+                  <item>
+                     <hi>Nathaniel Coleman</hi>
+                  </item>
+                  <item>
+                     <hi>Arthur Eſmead.</hi>
+                  </item>
+                  <item>
+                     <hi>Francis Brown.</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Weare.</hi>
+                  </item>
+                  <item>
+                     <hi>John Matravers.</hi>
+                  </item>
+                  <item>
+                     <hi>John Jennings.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Foraſmuch as it is in our Hearts to give in our teſtimony againſt the Paper given forth aganſt <hi>J. S.</hi> and <hi>J. W.</hi> we do by theſe few lines ſignifie unto thoſe, who gave forth the ſaid Paper, and others who own the ſame; that we diſown the ſame, and a Teſtimony lives in our Hearts for our Brethren <hi>J. W.</hi> and <hi>J. S.</hi> yet as they have la<g ref="char:EOLhyphen"/>boured amongſt us in the Goſpel of Chriſt in Faithfulneſs to our re<g ref="char:EOLhyphen"/>freshment, ſo do we believe they have not changed their way, but do continue faithful in their Labour and Travel of the Goſpel, to the refreſhing the hearts of many who retain their firſt Love to the truth; we alſo deſire that above written Paper given forth by ſome of our Friends, on whoſe Spirits it was to write more largely than we have done, may in the Spirit of Truth, which is void of prejudice, be read; and we doubt not, but that it will then have an Anſwer in the Hearts of ſuch, even as it hath in ours.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Rob. Marſhaman.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Hulbert.</hi>
+                     </item>
+                     <item>
+                        <hi>John Gibbons.</hi>
+                     </item>
+                     <item>
+                        <hi>Ed. Pyat.</hi>
+                     </item>
+                     <item>
+                        <hi>J. Hand.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Curtice.</hi>
+                     </item>
+                     <item>
+                        <hi>W. Dyer,</hi> Sen.</item>
+                     <item>
+                        <hi>Tho. Crab,</hi> Sen.</item>
+                     <item>
+                        <hi>J. Jones.</hi>
+                     </item>
+                     <item>
+                        <hi>Nich. Edwards.</hi>
+                     </item>
+                     <item>
+                        <hi>Mart. Derrington.</hi>
+                     </item>
+                     <item>
+                        <hi>R. Palmer</hi> Sen.</item>
+                     <item>
+                        <hi>W. Jones,</hi> Sen.</item>
+                     <item>
+                        <hi>J. Starr.</hi>
+                     </item>
+                     <item>
+                        <hi>H. Rennols.</hi>
+                     </item>
+                     <item>
+                        <hi>W. Arch.</hi>
+                     </item>
+                     <item>
+                        <hi>Joſ. Jones.</hi>
+                     </item>
+                     <item>
+                        <hi>J. Neate.</hi>
+                     </item>
+                     <item>
+                        <hi>Rob. Starr.</hi>
+                     </item>
+                     <item>
+                        <hi>Edw. Starr.</hi>
+                     </item>
+                     <item>
+                        <hi>W. Woolley.</hi>
+                     </item>
+                     <item>
+                        <hi>John Sealey.</hi>
+                     </item>
+                     <item>
+                        <hi>Hen. Rogers.</hi>
+                     </item>
+                     <item>
+                        <hi>John Rogers.</hi>
+                     </item>
+                     <item>
+                        <hi>Ben. Lawrence.</hi>
+                     </item>
+                     <item>
+                        <hi>W. Chandler.</hi>
+                     </item>
+                     <item>
+                        <hi>J. Gawen,</hi> Sen.</item>
+                     <item>
+                        <hi>J. Fry.</hi> Sen.</item>
+                     <item>
+                        <hi>W. Jones,</hi> Jun.</item>
+                     <item>
+                        <hi>Tho. Sleade.</hi>
+                     </item>
+                     <item>
+                        <hi>Ja. Neate.</hi>
+                     </item>
+                     <item>
+                        <hi>W. Dier,</hi> Jun.</item>
+                     <item>
+                        <hi>Rob. Arch.</hi>
+                     </item>
+                     <item>
+                        <hi>W. Hulbert.</hi>
+                     </item>
+                     <item>
+                        <hi>R. Palmer,</hi> Jun.</item>
+                     <item>
+                        <hi>Hen. Ferris.</hi>
+                     </item>
+                     <item>
+                        <hi>Rich. Puckeridge.</hi>
+                     </item>
+                     <item>
+                        <hi>John Swaine.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Coleman.</hi>
+                     </item>
+                     <item>
+                        <hi>John Wheeler.</hi>
+                     </item>
+                     <item>
+                        <hi>John Stoakes.</hi>
+                     </item>
+                     <item>
+                        <hi>Jaſp. Wheeler.</hi>
+                     </item>
+                     <item>
+                        <hi>Ben. Power.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Crab.</hi> Jun.</item>
+                     <item>
+                        <hi>Eze. Wallis.</hi>
+                     </item>
+                     <item>
+                        <hi>John Fry,</hi> Jun.</item>
+                     <item>
+                        <hi>Tho. Frowde.</hi>
+                     </item>
+                     <item>
+                        <hi>Rich. Fox.</hi>
+                     </item>
+                     <item>
+                        <hi>James Care.</hi>
+                     </item>
+                     <item>
+                        <hi>John Foot.</hi>
+                     </item>
+                     <item>
+                        <hi>John Wiltſhire.</hi>
+                     </item>
+                     <item>
+                        <hi>Joſ. Serjeant.</hi>
+                     </item>
+                     <item>
+                        <hi>Fran. Royley.</hi>
+                     </item>
+                     <item>
+                        <hi>Ed. Star,</hi> Jun.</item>
+                     <item>
+                        <hi>W. Barnes.</hi>
+                     </item>
+                     <item>
+                        <hi>Ja. Matravers.</hi>
+                     </item>
+                     <item>
+                        <hi>Jeffery Gawen.</hi>
+                     </item>
+                     <item>
+                        <hi>W. Biſhop.</hi>
+                     </item>
+                     <item>
+                        <hi>Joſ. Gawen.</hi>
+                     </item>
+                     <item>
+                        <hi>John Gawen,</hi> Jun.</item>
+                     <item>
+                        <hi>Daniel Sealy.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <pb facs="tcp:46891:9"/>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
